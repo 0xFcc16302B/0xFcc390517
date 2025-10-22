@@ -1,5 +1,3 @@
-# GCash-webflow
-
 Hello! This repository contains the custom CSS and JS needed to run certain functionalities on the webflow page.
 Feel free to add your code and make sure to import it on the GCash webflow account.
 

@@ -104,7 +104,7 @@ function renderItems(results_area, filter_data, template_element) {
     let inputValue = search_input.val();
 
     //Get the data from URL source
-    let partnersData = await fetchPartners('https://0xfcc16302b.github.io/0xFcc390517/0xFccGP/data.json');
+    let partnersData = await fetchPartners('https://0xfcc16302b.github.io/0xFcc390517/0xFccGP/0xFccT/data.json');
     //Initialize an empty array
     let filterd_items = [];
 
